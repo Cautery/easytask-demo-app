@@ -1,6 +1,7 @@
 {
   "name": "essentials",
   "version": "0.0.0",
+  "homepage": "https://cautery.github.io/easytask-demo-app/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
